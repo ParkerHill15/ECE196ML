@@ -1,0 +1,577 @@
+,Year,Name,URLName
+0,2002.0,Ricky Williams,WillRi00
+1,2002.0,LaDainian Tomlinson,TomlLa00
+2,2002.0,Eddie George,GeorEd00
+3,2002.0,Travis Henry ,HenrTr00
+4,2002.0,Deuce McAllister,McAlDe00
+5,2002.0,Corey Dillon,DillCo00
+6,2002.0,Priest Holmes,HolmPr00
+7,2002.0,Jamal Lewis,LewiJa00
+8,2002.0,Tiki Barber,BarbTi00
+9,2002.0,Shaun Alexander ,AlexSh00
+10,2002.0,Fred Taylor,TaylFr00
+11,2002.0,Ahman Green,GreeAh00
+12,2002.0,Edgerrin James,JameEd00
+13,2002.0,Clinton Portis,PortCl00
+14,2002.0,Duce Staley,StalDu00
+15,2002.0,Curtis Martin ,MartCu00
+16,2002.0,Michael Bennett,BennMi00
+17,2002.0,Emmitt Smith ,SmitEm00
+18,2002.0,Antowain Smith,SmitAn00
+19,2002.0,William Green,GreeWi00
+20,2002.0,James Stewart,StewJa00
+21,2002.0,Warrick Dunn,DunnWa00
+22,2002.0,Garrison Hearst,HearGa00
+23,2002.0,Anthony Thomas,ThomAn00
+24,2002.0,Marshall Faulk,FaulMa00
+25,2002.0,Lamar Smith,SmitLa00
+26,2002.0,Stephen Davis ,DaviSt00
+27,2002.0,Michael Pittman,PittMi00
+28,2002.0,Jonathan Wells,WellJo00
+29,2002.0,Amos Zereoue,ZereAm00
+30,2002.0,Marcel Shipp,ShipMa00
+31,2002.0,Jerome Bettis,BettJe00
+32,2003.0,Ricky Williams,WillRi00
+33,2003.0,Jamal Lewis,LewiJa00
+34,2003.0,Ahman Green,GreeAh00
+35,2003.0,Deuce McAllister,McAlDe00
+36,2003.0,Fred Taylor,TaylFr00
+37,2003.0,Travis Henry ,HenrTr00
+38,2003.0,Shaun Alexander ,AlexSh00
+39,2003.0,Curtis Martin ,MartCu00
+40,2003.0,Priest Holmes,HolmPr00
+41,2003.0,Stephen Davis ,DaviSt00
+42,2003.0,LaDainian Tomlinson,TomlLa00
+43,2003.0,Eddie George,GeorEd00
+44,2003.0,Edgerrin James,JameEd00
+45,2003.0,Clinton Portis,PortCl00
+46,2003.0,Tiki Barber,BarbTi00
+47,2003.0,Troy Hambrick,HambTr00
+48,2003.0,Jerome Bettis,BettJe00
+49,2003.0,Anthony Thomas,ThomAn00
+50,2003.0,Domanick Williams,WillDo00
+51,2003.0,Marcel Shipp,ShipMa00
+52,2003.0,Rudi Johnson,JohnRu00
+53,2003.0,Marshall Faulk,FaulMa00
+54,2003.0,Kevan Barlow,BarlKe00
+55,2003.0,TJ Duckett,DuckT.00
+56,2003.0,Michael Pittman,PittMi00
+57,2003.0,Antowain Smith,SmitAn00
+58,2003.0,Kevin Faulk,FaulKe00
+59,2003.0,Garrison Hearst,HearGa00
+60,2003.0,Moe Williams,WillMo00
+61,2003.0,Tyrone Wheatley,WheaTy00
+62,2003.0,Shawn Bryson,BrysSh00
+63,2003.0,Trung Canidate,CaniTr00
+64,2004.0,Curtis Martin ,MartCu00
+65,2004.0,Rudi Johnson,JohnRu00
+66,2004.0,Shaun Alexander ,AlexSh00
+67,2004.0,Corey Dillon,DillCo00
+68,2004.0,Clinton Portis,PortCl00
+69,2004.0,LaDainian Tomlinson,TomlLa00
+70,2004.0,Edgerrin James,JameEd00
+71,2004.0,Tiki Barber,BarbTi00
+72,2004.0,Domanick Williams,WillDo00
+73,2004.0,Willis McGahee,McGaWi00
+74,2004.0,Reuben Droughns,DrouRe00
+75,2004.0,Deuce McAllister,McAlDe00
+76,2004.0,Emmitt Smith ,SmitEm00
+77,2004.0,Warrick Dunn,DunnWa00
+78,2004.0,Fred Taylor,TaylFr00
+79,2004.0,Ahman Green,GreeAh00
+80,2004.0,Jerome Bettis,BettJe00
+81,2004.0,Kevan Barlow,BarlKe00
+82,2004.0,Kevin Jones,JoneKe00
+83,2004.0,Thomas Jones,JoneTh00
+84,2004.0,Jamal Lewis,LewiJa00
+85,2004.0,Chris Brown,BrowCh00
+86,2004.0,Michael Pittman,PittMi00
+87,2004.0,Nick Goings,GoinNi00
+88,2004.0,Lee Suggs,SuggLe00
+89,2004.0,Julius Jones,JoneJu00
+90,2004.0,Priest Holmes,HolmPr00
+91,2004.0,Marshall Faulk,FaulMa00
+92,2004.0,Duce Staley,StalDu00
+93,2004.0,Brian Westbrook ,WestBr00
+94,2004.0,William Green,GreeWi00
+95,2004.0,Chester Taylor,TaylCh00
+96,2005.0,Shaun Alexander ,AlexSh00
+97,2005.0,Edgerrin James,JameEd00
+98,2005.0,Tiki Barber,BarbTi00
+99,2005.0,Clinton Portis,PortCl00
+100,2005.0,LaDainian Tomlinson,TomlLa00
+101,2005.0,Rudi Johnson,JohnRu00
+102,2005.0,Larry Johnson,JohnLa00
+103,2005.0,Willis McGahee,McGaWi00
+104,2005.0,Thomas Jones,JoneTh00
+105,2005.0,Reuben Droughns,DrouRe00
+106,2005.0,Cadillac Williams,WillCa00
+107,2005.0,Warrick Dunn,DunnWa00
+108,2005.0,LaMont Jordan,JordLa00
+109,2005.0,Jamal Lewis,LewiJa00
+110,2005.0,Julius Jones,JoneJu00
+111,2005.0,Willie Parker,ParkWi00
+112,2005.0,Steven Jackson,JackSt00
+113,2005.0,Mike Anderson ,AndeMi00
+114,2005.0,Domanick Williams,WillDo00
+115,2005.0,Chris Brown,BrowCh00
+116,2005.0,Curtis Martin ,MartCu00
+117,2005.0,Corey Dillon,DillCo00
+118,2005.0,Ronnie Brown,BrowRo00
+119,2005.0,DeShaun Foster ,FostDe00
+120,2005.0,Fred Taylor,TaylFr00
+121,2005.0,Kevin Jones,JoneKe00
+122,2005.0,Stephen Davis ,DaviSt00
+123,2005.0,Kevan Barlow,BarlKe00
+124,2005.0,Tatum Bell,BellTa00
+125,2005.0,Ricky Williams,WillRi00
+126,2005.0,Antowain Smith,SmitAn00
+127,2005.0,Marcel Shipp,ShipMa00
+128,2006.0,Larry Johnson,JohnLa00
+129,2006.0,LaDainian Tomlinson,TomlLa00
+130,2006.0,Steven Jackson,JackSt00
+131,2006.0,Rudi Johnson,JohnRu00
+132,2006.0,Edgerrin James,JameEd00
+133,2006.0,Willie Parker,ParkWi00
+134,2006.0,Tiki Barber,BarbTi00
+135,2006.0,Jamal Lewis,LewiJa00
+136,2006.0,Frank Gore,GoreFr00
+137,2006.0,Chester Taylor,TaylCh00
+138,2006.0,Thomas Jones,JoneTh00
+139,2006.0,Warrick Dunn,DunnWa00
+140,2006.0,Travis Henry ,HenrTr00
+141,2006.0,Julius Jones,JoneJu00
+142,2006.0,Ahman Green,GreeAh00
+143,2006.0,Willis McGahee,McGaWi00
+144,2006.0,Shaun Alexander ,AlexSh00
+145,2006.0,Ladell Betts,BettLa00
+146,2006.0,Deuce McAllister,McAlDe00
+147,2006.0,Ronnie Brown,BrowRo00
+148,2006.0,Brian Westbrook ,WestBr00
+149,2006.0,Tatum Bell,BellTa00
+150,2006.0,Fred Taylor,TaylFr00
+151,2006.0,DeShaun Foster ,FostDe00
+152,2006.0,Joseph Addai,AddaJo00
+153,2006.0,Cadillac Williams,WillCa00
+154,2006.0,Reuben Droughns,DrouRe00
+155,2006.0,Corey Dillon,DillCo00
+156,2006.0,Dominic Rhodes,RhodDo00
+157,2006.0,Kevin Jones,JoneKe00
+158,2006.0,Justin Fargas,FargJu00
+159,2006.0,Laurence Maroney,MaroLa00
+160,2007.0,Clinton Portis,PortCl00
+161,2007.0,Edgerrin James,JameEd00
+162,2007.0,Willie Parker,ParkWi00
+163,2007.0,LaDainian Tomlinson,TomlLa00
+164,2007.0,Thomas Jones,JoneTh00
+165,2007.0,LenDale White,WhitLe00
+166,2007.0,Jamal Lewis,LewiJa00
+167,2007.0,Willis McGahee,McGaWi00
+168,2007.0,Marshawn Lynch ,LyncMa00
+169,2007.0,Brian Westbrook ,WestBr00
+170,2007.0,Joseph Addai,AddaJo00
+171,2007.0,Frank Gore,GoreFr00
+172,2007.0,DeShaun Foster ,FostDe00
+173,2007.0,Adrian Peterson,PeteAd00
+174,2007.0,Steven Jackson,JackSt00
+175,2007.0,Warrick Dunn,DunnWa00
+176,2007.0,Fred Taylor,TaylFr00
+177,2007.0,Justin Fargas,FargJu00
+178,2007.0,Earnest Graham,GrahEa00
+179,2007.0,Shaun Alexander ,AlexSh00
+180,2007.0,Marion Barber III,BarbMa00
+181,2007.0,Brandon Jacobs,JacoBr00
+182,2007.0,Cedric Benson ,BensCe00
+183,2007.0,Ron Dayne,DaynRo00
+184,2007.0,Ryan Grant,GranRy00
+185,2007.0,Laurence Maroney,MaroLa00
+186,2007.0,Kenny Watson,WatsKe00
+187,2007.0,Rudi Johnson,JohnRu00
+188,2007.0,Travis Henry ,HenrTr00
+189,2007.0,Maurice JonesDrew,JoneMa00
+190,2007.0,Julius Jones,JoneJu00
+191,2007.0,Larry Johnson,JohnLa00
+192,2008.0,Michael Turner,TurnMi00
+193,2008.0,Adrian Peterson,PeteAd00
+194,2008.0,Clinton Portis,PortCl00
+195,2008.0,Matt Forte ,FortMa00
+196,2008.0,Ryan Grant,GranRy00
+197,2008.0,LaDainian Tomlinson,TomlLa00
+198,2008.0,Thomas Jones,JoneTh00
+199,2008.0,Jamal Lewis,LewiJa00
+200,2008.0,DeAngelo Williams,WillDe00
+201,2008.0,Steve Slaton,SlatSt00
+202,2008.0,Steven Jackson,JackSt00
+203,2008.0,Chris Johnson ,JohnCh00
+204,2008.0,Marshawn Lynch ,LyncMa00
+205,2008.0,Frank Gore,GoreFr00
+206,2008.0,Marion Barber III,BarbMa00
+207,2008.0,Kevin Smith,SmitKe00
+208,2008.0,Brian Westbrook ,WestBr00
+209,2008.0,LeRon McClain,McClLe00
+210,2008.0,Brandon Jacobs,JacoBr00
+211,2008.0,Justin Fargas,FargJu00
+212,2008.0,Cedric Benson ,BensCe00
+213,2008.0,Ronnie Brown,BrowRo00
+214,2008.0,Willie Parker,ParkWi00
+215,2008.0,LenDale White,WhitLe00
+216,2008.0,Maurice JonesDrew,JoneMa00
+217,2008.0,Larry Johnson,JohnLa00
+218,2008.0,Warrick Dunn,DunnWa00
+219,2008.0,Jonathan Stewart,StewJo00
+220,2008.0,Derrick Ward,WardDe00
+221,2008.0,Willis McGahee,McGaWi00
+222,2008.0,Ricky Williams,WillRi00
+223,2008.0,Julius Jones,JoneJu00
+224,2009.0,Chris Johnson ,JohnCh00
+225,2009.0,Thomas Jones,JoneTh00
+226,2009.0,Steven Jackson,JackSt00
+227,2009.0,Adrian Peterson,PeteAd00
+228,2009.0,Maurice JonesDrew,JoneMa00
+229,2009.0,Cedric Benson ,BensCe00
+230,2009.0,Ryan Grant,GranRy00
+231,2009.0,Matt Forte ,FortMa00
+232,2009.0,Ray Rice,RiceRa00
+233,2009.0,Knowshon Moreno,MoreKn00
+234,2009.0,Rashard Mendenhall,MendRa00
+235,2009.0,Ricky Williams,WillRi00
+236,2009.0,Fred Jackson,JackFr00
+237,2009.0,Frank Gore,GoreFr00
+238,2009.0,Brandon Jacobs,JacoBr00
+239,2009.0,LaDainian Tomlinson,TomlLa00
+240,2009.0,Jonathan Stewart,StewJo00
+241,2009.0,Joseph Addai,AddaJo00
+242,2009.0,Kevin Smith,SmitKe00
+243,2009.0,DeAngelo Williams,WillDe00
+244,2009.0,Marion Barber III,BarbMa00
+245,2009.0,Cadillac Williams,WillCa00
+246,2009.0,Jerome Harrison,HarrJe00
+247,2009.0,Laurence Maroney,MaroLa00
+248,2009.0,Jamaal Charles,CharJa00
+249,2009.0,Larry Johnson,JohnLa00
+250,2009.0,Michael Turner,TurnMi00
+251,2009.0,Julius Jones,JoneJu00
+252,2009.0,Beanie Wells ,WellBe00
+253,2009.0,Mike Bell,BellMi00
+254,2009.0,Ahmad Bradshaw,BradAh00
+255,2009.0,LeSean McCoy,McCoLe00
+256,2010.0,Michael Turner,TurnMi00
+257,2010.0,Steven Jackson,JackSt00
+258,2010.0,Arian Foster ,FostAr00
+259,2010.0,Rashard Mendenhall,MendRa00
+260,2010.0,Cedric Benson ,BensCe00
+261,2010.0,Chris Johnson ,JohnCh00
+262,2010.0,Ray Rice,RiceRa00
+263,2010.0,Maurice JonesDrew,JoneMa00
+264,2010.0,Adrian Peterson,PeteAd00
+265,2010.0,Ahmad Bradshaw,BradAh00
+266,2010.0,Peyton Hillis,HillPe00
+267,2010.0,Thomas Jones,JoneTh00
+268,2010.0,Matt Forte ,FortMa00
+269,2010.0,Jamaal Charles,CharJa00
+270,2010.0,BenJarvus GreenEllis,GreeBe00
+271,2010.0,Darren McFadden,McFaDa00
+272,2010.0,Fred Jackson,JackFr00
+273,2010.0,LaDainian Tomlinson,TomlLa00
+274,2010.0,LeSean McCoy,McCoLe00
+275,2010.0,Frank Gore,GoreFr00
+276,2010.0,Marshawn Lynch ,LyncMa00
+277,2010.0,LeGarrette Blount,BlouLe00
+278,2010.0,Ronnie Brown,BrowRo00
+279,2010.0,Brandon Jackson,JackBr00
+280,2010.0,Shonn Greene,GreeSh00
+281,2010.0,Felix Jones,JoneFe00
+282,2010.0,Knowshon Moreno,MoreKn00
+283,2010.0,Mike Tolbert,TolbMi00
+284,2010.0,Jonathan Stewart,StewJo00
+285,2010.0,Jahvid Best,BestJa00
+286,2010.0,Ryan Torain,ToraRy00
+287,2010.0,Ricky Williams,WillRi00
+288,2011.0,Maurice JonesDrew,JoneMa00
+289,2011.0,Michael Turner,TurnMi00
+290,2011.0,Ray Rice,RiceRa00
+291,2011.0,Marshawn Lynch ,LyncMa00
+292,2011.0,Frank Gore,GoreFr00
+293,2011.0,Arian Foster ,FostAr00
+294,2011.0,Cedric Benson ,BensCe00
+295,2011.0,LeSean McCoy,McCoLe00
+296,2011.0,Chris Johnson ,JohnCh00
+297,2011.0,Steven Jackson,JackSt00
+298,2011.0,Michael Bush,BushMi00
+299,2011.0,Shonn Greene,GreeSh00
+300,2011.0,Willis McGahee,McGaWi00
+301,2011.0,Beanie Wells ,WellBe00
+302,2011.0,Rashard Mendenhall,MendRa00
+303,2011.0,Ryan Mathews,MathRy00
+304,2011.0,Reggie Bush,BushRe00
+305,2011.0,Adrian Peterson,PeteAd00
+306,2011.0,Matt Forte ,FortMa00
+307,2011.0,LeGarrette Blount,BlouLe00
+308,2011.0,BenJarvus GreenEllis,GreeBe00
+309,2011.0,Ben Tate,TateBe00
+310,2011.0,Ahmad Bradshaw,BradAh00
+311,2011.0,Fred Jackson,JackFr00
+312,2011.0,Daniel Thomas,ThomDa00
+313,2011.0,DeMarco Murray,MurrDe00
+314,2011.0,Peyton Hillis,HillPe00
+315,2011.0,DeAngelo Williams,WillDe00
+316,2011.0,Thomas Jones,JoneTh00
+317,2011.0,Brandon Jacobs,JacoBr00
+318,2011.0,Roy Helu,HeluRo00
+319,2011.0,Jackie Battle,BattJa00
+320,2012.0,Arian Foster ,FostAr00
+321,2012.0,Adrian Peterson,PeteAd00
+322,2012.0,Alfred Morris ,MorrAl00
+323,2012.0,Doug Martin ,MartDo00
+324,2012.0,Marshawn Lynch ,LyncMa00
+325,2012.0,Stevan Ridley,RidlSt00
+326,2012.0,Jamaal Charles,CharJa00
+327,2012.0,BenJarvus GreenEllis,GreeBe00
+328,2012.0,Shonn Greene,GreeSh00
+329,2012.0,Chris Johnson ,JohnCh00
+330,2012.0,Trent Richardson ,RichTr00
+331,2012.0,Frank Gore,GoreFr00
+332,2012.0,Steven Jackson,JackSt00
+333,2012.0,Ray Rice,RiceRa00
+334,2012.0,Matt Forte ,FortMa00
+335,2012.0,Reggie Bush,BushRe00
+336,2012.0,Michael Turner,TurnMi00
+337,2012.0,Ahmad Bradshaw,BradAh00
+338,2012.0,Darren McFadden,McFaDa00
+339,2012.0,Mikel Leshoure,LeshMi00
+340,2012.0,Vick Ballard,BallVi00
+341,2012.0,CJ Spiller,SpilC.00
+342,2012.0,LeSean McCoy,McCoLe00
+343,2012.0,Ryan Mathews,MathRy00
+344,2012.0,DeAngelo Williams,WillDe00
+345,2012.0,Willis McGahee,McGaWi00
+346,2012.0,DeMarco Murray,MurrDe00
+347,2012.0,Jonathan Dwyer,DwyeJo00
+348,2012.0,Mark Ingram,IngrMa00
+349,2012.0,Knowshon Moreno,MoreKn00
+350,2012.0,Alex Green,GreeAl00
+351,2012.0,Cam Newton,NewtCa00
+352,2013.0,LeSean McCoy,McCoLe00
+353,2013.0,Marshawn Lynch ,LyncMa00
+354,2013.0,Matt Forte ,FortMa00
+355,2013.0,Ryan Mathews,MathRy00
+356,2013.0,Eddie Lacy,LacyEd00
+357,2013.0,Chris Johnson ,JohnCh00
+358,2013.0,Adrian Peterson,PeteAd00
+359,2013.0,Frank Gore,GoreFr00
+360,2013.0,Alfred Morris ,MorrAl00
+361,2013.0,Jamaal Charles,CharJa00
+362,2013.0,Zac Stacy,StacZa00
+363,2013.0,LeVeon Bell,BellLe00
+364,2013.0,Knowshon Moreno,MoreKn00
+365,2013.0,Maurice JonesDrew,JoneMa00
+366,2013.0,Reggie Bush,BushRe00
+367,2013.0,BenJarvus GreenEllis,GreeBe00
+368,2013.0,Rashard Mendenhall,MendRa00
+369,2013.0,DeMarco Murray,MurrDe00
+370,2013.0,Ray Rice,RiceRa00
+371,2013.0,Fred Jackson,JackFr00
+372,2013.0,CJ Spiller,SpilC.00
+373,2013.0,DeAngelo Williams,WillDe00
+374,2013.0,Trent Richardson ,RichTr00
+375,2013.0,Chris Ivory,IvorCh00
+376,2013.0,Ben Tate,TateBe00
+377,2013.0,Stevan Ridley,RidlSt00
+378,2013.0,Lamar Miller,MillLa00
+379,2013.0,Bilal Powell,PoweBi00
+380,2013.0,Giovani Bernard,BernGi00
+381,2013.0,Joique Bell,BellJo00
+382,2013.0,Rashad Jennings,JennRa00
+383,2013.0,Steven Jackson,JackSt00
+384,2014.0,DeMarco Murray,MurrDe00
+385,2014.0,LeSean McCoy,McCoLe00
+386,2014.0,LeVeon Bell,BellLe00
+387,2014.0,Marshawn Lynch ,LyncMa00
+388,2014.0,Matt Forte ,FortMa00
+389,2014.0,Alfred Morris ,MorrAl00
+390,2014.0,Arian Foster ,FostAr00
+391,2014.0,Frank Gore,GoreFr00
+392,2014.0,Eddie Lacy,LacyEd00
+393,2014.0,Justin Forsett,ForsJu00
+394,2014.0,Mark Ingram,IngrMa00
+395,2014.0,Joique Bell,BellJo00
+396,2014.0,Jeremy Hill,HillJe00
+397,2014.0,Andre Williams,WillAn00
+398,2014.0,Lamar Miller,MillLa00
+399,2014.0,Jamaal Charles,CharJa00
+400,2014.0,Andre Ellington,ElliAn00
+401,2014.0,Chris Ivory,IvorCh00
+402,2014.0,Steven Jackson,JackSt00
+403,2014.0,CJ Anderson,AndeC.00
+404,2014.0,Tre Mason,MasoTr00
+405,2014.0,Jonathan Stewart,StewJo00
+406,2014.0,Terrance West ,WestTe00
+407,2014.0,Alfred Blue,BlueAl00
+408,2014.0,Giovani Bernard,BernGi00
+409,2014.0,Rashad Jennings,JennRa00
+410,2014.0,Matt Asiata,AsiaMa00
+411,2014.0,Branden Oliver,OlivBr00
+412,2014.0,Trent Richardson ,RichTr00
+413,2014.0,Chris Johnson ,JohnCh00
+414,2014.0,Darren McFadden,McFaDa00
+415,2014.0,Bishop Sankey,SankBi00
+416,2015.0,Adrian Peterson,PeteAd00
+417,2015.0,Doug Martin ,MartDo00
+418,2015.0,Latavius Murray,MurrLa00
+419,2015.0,Devonta Freeman ,FreeDe00
+420,2015.0,Frank Gore,GoreFr00
+421,2015.0,Chris Ivory,IvorCh00
+422,2015.0,Jonathan Stewart,StewJo00
+423,2015.0,Darren McFadden,McFaDa00
+424,2015.0,Todd Gurley,GurlTo00
+425,2015.0,Jeremy Hill,HillJe00
+426,2015.0,Matt Forte ,FortMa00
+427,2015.0,Ronnie Hillman,HillRo00
+428,2015.0,LeSean McCoy,McCoLe00
+429,2015.0,Alfred Morris ,MorrAl00
+430,2015.0,DeAngelo Williams,WillDe00
+431,2015.0,Chris Johnson ,JohnCh00
+432,2015.0,Rashad Jennings,JennRa00
+433,2015.0,Lamar Miller,MillLa00
+434,2015.0,DeMarco Murray,MurrDe00
+435,2015.0,Eddie Lacy,LacyEd00
+436,2015.0,Isaiah Crowell,CrowIs00
+437,2015.0,Melvin Gordon,GordMe00
+438,2015.0,Alfred Blue,BlueAl00
+439,2015.0,TJ Yeldon,YeldT.00
+440,2015.0,Mark Ingram,IngrMa00
+441,2015.0,LeGarrette Blount,BlouLe00
+442,2015.0,Charcandrick West ,WestCh00
+443,2015.0,Giovani Bernard,BernGi00
+444,2015.0,CJ Anderson,AndeC.00
+445,2015.0,Justin Forsett,ForsJu00
+446,2015.0,Jeremy Langford,LangJe00
+447,2015.0,James Starks,StarJa00
+448,2016.0,Ezekiel Elliott,ElliEz00
+449,2016.0,LeGarrette Blount,BlouLe00
+450,2016.0,David Johnson,JohnDa00
+451,2016.0,DeMarco Murray,MurrDe00
+452,2016.0,Todd Gurley,GurlTo00
+453,2016.0,Lamar Miller,MillLa00
+454,2016.0,Frank Gore,GoreFr00
+455,2016.0,LeVeon Bell,BellLe00
+456,2016.0,Jay Ajayi,AjayJa00
+457,2016.0,Melvin Gordon,GordMe00
+458,2016.0,Jordan Howard,HowaJo00
+459,2016.0,LeSean McCoy,McCoLe00
+460,2016.0,Devonta Freeman ,FreeDe00
+461,2016.0,Jeremy Hill,HillJe00
+462,2016.0,Matt Forte ,FortMa00
+463,2016.0,Jonathan Stewart,StewJo00
+464,2016.0,Carlos Hyde,HydeCa00
+465,2016.0,Spencer Ware,WareSp00
+466,2016.0,Mark Ingram,IngrMa00
+467,2016.0,Isaiah Crowell,CrowIs00
+468,2016.0,Latavius Murray,MurrLa00
+469,2016.0,Terrance West ,WestTe00
+470,2016.0,Rashad Jennings,JennRa00
+471,2016.0,Devontae Booker,BookDe00
+472,2016.0,Robert Kelley ,KellRo00
+473,2016.0,Jerick McKinnon ,McKiJe00
+474,2016.0,Ryan Mathews,MathRy00
+475,2016.0,Christine Michael ,MichCh00
+476,2016.0,Doug Martin ,MartDo00
+477,2016.0,Tim Hightower,HighTi00
+478,2016.0,Bilal Powell,PoweBi00
+479,2016.0,TJ Yeldon,YeldT.00
+480,2017.0,LeVeon Bell,BellLe00
+481,2017.0,LeSean McCoy,McCoLe00
+482,2017.0,Melvin Gordon,GordMe00
+483,2017.0,Todd Gurley,GurlTo00
+484,2017.0,Jordan Howard,HowaJo00
+485,2017.0,Kareem Hunt,HuntKa00
+486,2017.0,Leonard Fournette ,FourLe00
+487,2017.0,Frank Gore,GoreFr00
+488,2017.0,CJ Anderson,AndeC.00
+489,2017.0,Ezekiel Elliott,ElliEz00
+490,2017.0,Carlos Hyde,HydeCa00
+491,2017.0,Lamar Miller,MillLa00
+492,2017.0,Mark Ingram,IngrMa00
+493,2017.0,Latavius Murray,MurrLa00
+494,2017.0,Alex Collins,CollAl00
+495,2017.0,Jay Ajayi,AjayJa00
+496,2017.0,Marshawn Lynch ,LyncMa00
+497,2017.0,Isaiah Crowell,CrowIs00
+498,2017.0,Jonathan Stewart,StewJo00
+499,2017.0,Devonta Freeman ,FreeDe00
+500,2017.0,DeMarco Murray,MurrDe00
+501,2017.0,Dion Lewis,LewiDi00
+502,2017.0,Joe Mixon,MixoJo00
+503,2017.0,Bilal Powell,PoweBi00
+504,2017.0,Derrick Henry ,HenrDe00
+505,2017.0,Samaje Perine,PeriSa00
+506,2017.0,LeGarrette Blount,BlouLe00
+507,2017.0,Orleans Darkwa,DarkOr00
+508,2017.0,Ameer Abdullah,AbduAm00
+509,2017.0,Tevin Coleman,ColeTe00
+510,2017.0,Adrian Peterson,PeteAd00
+511,2017.0,Javorius Allen,AlleJa00
+512,2018.0,Ezekiel Elliott,ElliEz00
+513,2018.0,Saquon Barkley,BarkSa00
+514,2018.0,David Johnson,JohnDa00
+515,2018.0,Todd Gurley,GurlTo00
+516,2018.0,Adrian Peterson,PeteAd00
+517,2018.0,Jordan Howard,HowaJo00
+518,2018.0,Chris Carson,CarsCh00
+519,2018.0,Joe Mixon,MixoJo00
+520,2018.0,Peyton Barber,BarbPe00
+521,2018.0,Christian McCaffrey ,McCaCh00
+522,2018.0,James Conner,ConnJa00
+523,2018.0,Derrick Henry ,HenrDe00
+524,2018.0,Lamar Miller,MillLa00
+525,2018.0,Sony Michel,MichSo00
+526,2018.0,Marlon Mack,MackMa00
+527,2018.0,Alvin Kamara,KamaAl00
+528,2018.0,Nick Chubb,ChubNi00
+529,2018.0,Phillip Lindsay,LindPh00
+530,2018.0,Kareem Hunt,HuntKa00
+531,2018.0,Melvin Gordon,GordMe00
+532,2018.0,Carlos Hyde,HydeCa00
+533,2018.0,Doug Martin ,MartDo00
+534,2018.0,Tevin Coleman,ColeTe00
+535,2018.0,LeSean McCoy,McCoLe00
+536,2018.0,Frank Gore,GoreFr00
+537,2018.0,Dion Lewis,LewiDi00
+538,2018.0,LeGarrette Blount,BlouLe00
+539,2018.0,Matt Breida,BreiMa00
+540,2018.0,Alfred Blue,BlueAl00
+541,2018.0,Lamar Jackson,JackLa00
+542,2018.0,Isaiah Crowell,CrowIs00
+543,2018.0,Latavius Murray,MurrLa00
+544,2019.0,Derrick Henry ,HenrDe00
+545,2019.0,Ezekiel Elliott,ElliEz00
+546,2019.0,Nick Chubb,ChubNi00
+547,2019.0,Christian McCaffrey ,McCaCh00
+548,2019.0,Chris Carson,CarsCh00
+549,2019.0,Joe Mixon,MixoJo00
+550,2019.0,Leonard Fournette ,FourLe00
+551,2019.0,Dalvin Cook,CookDa00
+552,2019.0,Marlon Mack,MackMa00
+553,2019.0,Sony Michel,MichSo00
+554,2019.0,LeVeon Bell,BellLe00
+555,2019.0,Carlos Hyde,HydeCa00
+556,2019.0,Josh Jacobs,JacoJo00
+557,2019.0,David Montgomery,MontDa00
+558,2019.0,Aaron Jones,JoneAa00
+559,2019.0,Phillip Lindsay,LindPh00
+560,2019.0,Todd Gurley,GurlTo00
+561,2019.0,Saquon Barkley,BarkSa00
+562,2019.0,Adrian Peterson,PeteAd00
+563,2019.0,Mark Ingram,IngrMa00
+564,2019.0,Devonta Freeman ,FreeDe00
+565,2019.0,Miles Sanders ,SandMi00
+566,2019.0,Lamar Jackson,JackLa00
+567,2019.0,Ronald Jones II,JoneRo00
+568,2019.0,Alvin Kamara,KamaAl00
+569,2019.0,Kenyan Drake,DrakKe00
+570,2019.0,Frank Gore,GoreFr00
+571,2019.0,Melvin Gordon,GordMe00
+572,2019.0,Peyton Barber,BarbPe00
+573,2019.0,Devin Singletary,SingDe00
+574,2019.0,Latavius Murray,MurrLa00
+575,2019.0,Tevin Coleman,ColeTe00
